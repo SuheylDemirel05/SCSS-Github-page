@@ -1,2 +1,2 @@
 # SCSS-Github-page
-Bu proje SCSS mantığını öğrenmek ve güzel bir şekilde kavramak için yapıldı
+This project was made to learn and understand the SCSS logic in a good way.
